@@ -1,0 +1,25 @@
+.input-field{
+    border-style: none;
+    background-color: #ffcccc;
+    border-radius: 8px;
+}
+.button{
+    background-color: #7158e2;
+    color: white;
+    border-style: none;
+    border-radius: 5px;
+    padding-left: 15px;
+    padding-right: 15px;
+    font-weight: 600;
+    padding: 7px;
+    margin: 10px;
+}
+.calculate-section{
+    background-color: aliceblue;
+    padding:  30px;
+    border-radius: 10px;
+}
+.image{
+    height: 550px;
+    border-radius: 10px;
+}
